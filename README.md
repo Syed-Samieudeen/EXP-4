@@ -49,7 +49,7 @@ TABULAR COLUMN Rectifier with filter
 <img width="346" height="1280" alt="image" src="https://github.com/user-attachments/assets/53192e17-7ef7-4587-ae4f-ac7d67370645" />
 
 WAVEFORM:
-![Uploading image.png…]()
+<img width="537" height="1280" alt="image" src="https://github.com/user-attachments/assets/2d96c66b-4027-49b1-a9af-dc2bcd4d8f3b" />
 
 
 RESULT:
